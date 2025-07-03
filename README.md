@@ -1,10 +1,17 @@
 # Awesome Vulnerable Smart Contract
 
 ## 📖 Contents
+- [Datasets](#datasets)
+- [Scientific Research](#scientific-research)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+### Datasets
+You can access the datasets [here](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets?tab=readme-ov-file#vulnerability-based-dataset).
+
+### Scientific Research
+You can access the Scientific Research [here](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research).
 
 ### My Other Awesome Lists
 
