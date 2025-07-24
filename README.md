@@ -22,9 +22,7 @@
 You can access the datasets [here](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets?tab=readme-ov-file#vulnerability-based-dataset).
 
 ### Reverse Engineering Tools
--
-- [LLM-Powered EVM Decompiler](https://www.evmdecompiler.com/) - Advanced EVM bytecode decompiler powered by Large Language Models.
--
+You can access the reverse engineering tools [here](https://github.com/cybersecurity-dev/awesome-smart-contract/tree/main?tab=readme-ov-file#reverse-engineering-tools)
 
 ### Scientific Research
 You can access the Scientific Research [here](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research).
